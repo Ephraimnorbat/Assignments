@@ -1,0 +1,32 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(22, 207, 53);
+    text-align: center;
+    line-height: 300%;
+    border-inline-end-style: dotted;
+  }
+  .alert {
+    padding: 20px;
+    background-color: blue; 
+    color: lawngreen;
+    margin-bottom: 15px;
+  }
+  
+  
+  .Registerbtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  
+  .Registerbtn:hover {
+    color: blue;
+    border-radius: 50px;
+  }
